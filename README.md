@@ -1,4 +1,4 @@
-USB Kill for windows.
+##USB Kill for windows.
 
 Based on [hephaest0s](https://github.com/hephaest0s/usbkill) usbkill python script which runs for Linux, *BSD and OS X.
 
